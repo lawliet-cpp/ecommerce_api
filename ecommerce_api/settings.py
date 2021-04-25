@@ -25,7 +25,7 @@ SECRET_KEY = 'rz)p#m1&(v2iryp3tw)!g77of$(%_39y0vm8&*s#gtrlef4%o_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["blind-shop.herokuapp.com"]
 AUTH_USER_MODEL = 'api.User'
 
 # Application definition
